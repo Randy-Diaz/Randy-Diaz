@@ -22,7 +22,7 @@ To demostrate my technical skills, showcase my professional development, and pro
 • SIEM (Splunk)
 
 ## Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/in/randy-r-diaz/) or [GitHub](https://github.com/Randy-Dia).
+You can reach me at [LinkedIn](https://www.linkedin.com/in/randy-r-diaz/) or [GitHub](https://github.com/Randy-Diaz).
 
 <!--
 **Randy-Diaz/Randy-Diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
