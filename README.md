@@ -5,7 +5,7 @@ Welcome to my personal portfolio! I’m a Cybersecurity Specialist with a BS IT 
 I have experience in project management, leading teams, incident handling, offensive operations, cloud security, etc
 
 ## Goals of this porfolio
-To showcase my skills through projects
+To demostrate my technical skills, showcase my professional development, and provide to educational resources to those interested in Cybersecurity, IT, and personal growth.  
 
 ## CORE SKILLS
 • Incident Response
